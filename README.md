@@ -1,5 +1,5 @@
 # Spinach_Disease_Classification
-This is a classification model done with the help of ResNET 50 . The accuracy is a bit low but can be improved on adding more and more dataset. 
+This is a classification model done with the help of ResNET 50 . The accuracy is a bit low but can be improved on adding some more dataset or on training for more epochs. 
 
 ResNet (Residual Network) was introduced in 2015 by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun in their paper titled "Deep Residual Learning for Image Recognition" at the Computer Vision and Pattern Recognition (CVPR) conference. ResNet addressed a critical challenge in training deep neural networks: the vanishing/exploding gradient problem, which made it difficult to train very deep networks effectively.
 
