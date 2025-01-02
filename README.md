@@ -49,3 +49,5 @@ The error warning of  ,"/usr/local/lib/python3.10/dist-packages/sklearn/metrics/
 
 The below line is the reference to the dataset, Make sure to cite when you use this dataset....The DOI for the research paper as well as dataset...is ............ (DOI : 10.17632/n56pn9fncw.2)
 Dataset from : Rahman, Mushfiqur; Mukherjee, Anirban ; Shanto , Md Hasibul Hasan  (2023), “Malabar Spinach dataset for diseases classification using deep learning approach”, Mendeley Data, V2, doi: 10.17632/n56pn9fncw.2
+
+The API Testing is being done with the help of POSTMAN, which correctly classified a spinach_leaf to be anthracnose with a confidence of 97%.
